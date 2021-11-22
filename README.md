@@ -1,5 +1,5 @@
 # imgCutTool
-使用python制作的图片切片小工具
+使用python制作的图片切片小工具，并自动进行编号（本工具是为前端制作地图瓦片制定的，所以编号有特定的要求）
 
 ## 运行环境：python3 
 依赖：pillow库，使用 pip install pillow 进行安装
